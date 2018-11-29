@@ -1,5 +1,6 @@
 
 # Data Visualization Lab
+## A lab that covers data viz
 
 ## Introduction
 This lab will give you some structured practice working with the concepts introduced in the previous lesson.
